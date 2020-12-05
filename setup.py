@@ -10,7 +10,7 @@ setup(
       ''',
       url='https://github.com/jcabrerahi/sklearn_transforms-master/',
       author='Julio Cabrera',
-      author_email='jcabrerahi@gmail.com',
+      author_email='jcabrerahi1@gmail.com',
       license='BSD',
       packages=[
             'my_custom_sklearn_transforms'
